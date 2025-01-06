@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in Kotlin related to the `removeIf` function when used with maps.  The `removeIf` function works as expected with lists and sets, but exhibits unexpected behavior when applied to the entries of a mutable map. The provided code examples illustrate the issue and offer a solution.
